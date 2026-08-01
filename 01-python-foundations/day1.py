@@ -8,7 +8,7 @@ city = input("Enter your city: ")
 # 2. Print with sep and end
 print("\n--- Your Info ---")
 print(name, age, city, sep=" | ")
-print(f"Hello {name}, you are {age} years old and live in {city}", end="! \n" )
+print(f"Hello {name}, you are {age} years old and live in {city}", end="! \n")
 
 # 3. Multiple Assignment Demo
 x, y, z = 5, 10, 15
