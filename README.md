@@ -22,11 +22,11 @@ Become job-ready AI Application Developer in 180 days — 15+ real-world project
 04-capstone-projects/ — Day 121-180
 
 
-### ⭐ Progress Tracker
-- [x] Day 0 (28 July 2026) — War Room Setup: LinkedIn 10/10, GitHub live, First Python commit
-- [ ] Day 1 (29 July) — Python Variables, Data Types & 3 Mini Projects
-- [ ] Day 2 — Control Flow & Loops
-- [ ] Day 3 — Functions & Modules
+## ⭐ Progress Tracker
+- ✅ Day 0 (28 July 2026) — War Room Setup: LinkedIn 10/10, GitHub live, First Python commit
+- ✅ Day 1 (31 July 2026) — Python Variables, Input, Print Tricks & 3 Mini Projects
+- ✅ Day 2 (1 Aug 2026) — Operators & If-Else: Even/Odd, Grade Checker, Voting, Bill Splitter
+- ☐ Day 3 — Control Flow: Loops (for, while) & Patterns
 
 ### 🚀 How to Follow My Journey
 - ⭐ **Star this repo** — I push code daily at 6 PM PKT!
