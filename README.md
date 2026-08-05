@@ -27,6 +27,7 @@ Become job-ready AI Application Developer in 180 days — 15+ real-world project
 - ✅ Day 1 (31 July 2026) — Python Variables, Input, Print Tricks & 3 Mini Projects
 - ✅ Day 2 (1 Aug 2026) — Operators & If-Else: Even/Odd, Grade Checker, Voting, Bill Splitter
 - ✅ Day 3 (4 Aug 2026) — Control Flow: Loops (for, while), Table, Sum/Avg, Star Pattern, Guessing Game
+- ✅ Day 4 (5 Aug 2026) — Functions (def, parameters, return), Calculator with Functions, Greet, Even/Odd, Grade & Bill Splitter
 
 ### 🚀 How to Follow My Journey
 - ⭐ **Star this repo** — I push code daily at 6 PM PKT!
