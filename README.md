@@ -29,6 +29,7 @@ Become job-ready AI Application Developer in 180 days — 15+ real-world project
 - ✅ Day 3 (4 Aug 2026) — Control Flow: Loops (for, while), Table, Sum/Avg, Star Pattern, Guessing Game
 - ✅ Day 4 (5 Aug 2026) — Functions (def, parameters, return), Calculator with Functions, Greet, Even/Odd, Grade & Bill Splitter
 - ✅ Day 5 (6 Aug 2026) — Lists: sum, max, search, filter, count projects — Loop inside functions, no built-in max()
+- ✅ Day 6 (10 Aug 2026) — Dictionaries: key-value, .get(), .items(), list of dicts, Student Topper Project — Real data handling!
 
 ### 🚀 How to Follow My Journey
 - ⭐ **Star this repo** — I push code daily at 6 PM PKT!
