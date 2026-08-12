@@ -1,0 +1,3 @@
+Day 8 - Learning File Handling
+Python is powerful!
+Added at 11 PM - Day 8 streak!
