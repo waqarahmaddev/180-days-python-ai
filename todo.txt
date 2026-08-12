@@ -1,3 +1,0 @@
-1. Complete Day 8 File Handling
-2. Push to GitHub
-3. LinkedIn post
