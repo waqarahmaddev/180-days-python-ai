@@ -33,6 +33,7 @@ Become job-ready AI Application Developer in 180 days — 15+ real-world project
 - ✅ Day 7 (11 Aug 2026) — Tuples & Sets: Immutable, unpacking, set() unique, Union |, Intersection &, Difference -, Remove Duplicates, Common Skills & Unique Voters Projects
 - ✅ Day 8 (12 Aug 2026) — File Handling: Read/Write/Append, To-Do App & Word Counter - Late night push 11 PM!
 - ✅ Day 9 (20 Aug 2026) — Exception Handling: try/except/else/finally, 3-attempt logic, Calculator + File Reader + Age Validator with custom raise - Crash-proof apps!
+- ✅ Day 10 (1 Sep 2026) — OOP Basics: Classes & Objects, Student Grade System & Crash-Proof BankAccount & ToDo OOP - Real-world objects with __init__, self, raise & history tracking!
 
 ### 🚀 How to Follow My Journey
 - ⭐ **Star this repo** — I push code daily at 6 PM PKT!
