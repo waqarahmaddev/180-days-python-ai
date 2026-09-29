@@ -35,11 +35,11 @@ This repository documents my 180-day challenge to become an AI Application Devel
 
 ## 📂 Repository Structure
 180-days-python-ai/
-├── 01-python-foundations/   # Daily code from Day 0 to Day 30
-├── 02-intermediate/         # Phase 2: SQL & Data
-├── 03-pro-tools/            # Phase 3: Backend & FastAPI
-├── 04-ai-projects/          # Phase 4 & 5: AI Engineering
-└── 05-portfolio/            # Phase 6: Final portfolio
+- **01-python-foundations/** — Daily code from Day 0 to Day 30
+- **02-intermediate/** — Phase 2: SQL & Data
+- **03-pro-tools/** — Phase 3: Backend & FastAPI
+- **04-ai-projects/** — Phase 4 & 5: AI Engineering
+- **05-portfolio/** — Phase 6: Final portfolio
 
 ---
 
