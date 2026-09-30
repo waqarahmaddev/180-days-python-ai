@@ -95,4 +95,3 @@ This repository documents my 180-day challenge to become an AI Application Devel
   <strong>⭐ Star this repo to follow my journey.</strong><br>
   <em>This README is updated as I progress through my 180-day challenge.</em>
 </p>
-*This README is updated as I progress through my 180-day challenge.*
