@@ -1,22 +1,35 @@
 # 🚀 180 Days Python to AI
 
-**My journey from zero to AI Application Developer.**
+> My journey from zero to AI Application Developer.
 
-I am building 15+ real-world AI applications in 180 days. This repo is my public log — daily code, commits, and progress.
-
-[![Python](https://img.shields.io/badge/Python-3.14.5-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waqarahmaddev)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.14.5-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Days_Completed-10%2F180-brightgreen?style=for-the-badge" alt="Days Completed">
+  <img src="https://img.shields.io/badge/Commits-33-blue?style=for-the-badge" alt="Commits">
+</p>
 
 ---
 
 ## 📖 Overview
 
-**Waqar Ahmad** | BSCS @ GCUF Faisalabad | Started: 28 July 2026 (Day 0)
+Waqar Ahmad | BSCS @ GCUF Faisalabad | Started: 28 July 2026 (Day 0)
 
 This repository documents my 180-day challenge to become an AI Application Developer. My goal is to build 15+ real-world projects, moving from Python fundamentals to deploying AI agents. Every day, I write code, commit progress, and document my learning.
 
-**Connect with me:** [LinkedIn](https://www.linkedin.com/in/waqarahmaddev) · [GitHub Profile](https://github.com/waqarahmaddev)
+**Why this repo?** It is my public log. It shows consistency, growth, and proof of work. Recruiters can see my daily progress, my code quality, and my commitment. This is not a collection of random scripts. It is a structured journey.
+
+---
+
+## 📊 Quick Stats
+
+| Metric | Value |
+|--------|-------|
+| Days Completed | 10 / 180 |
+| Total Commits | 33 |
+| Projects Built | 3 |
+| Current Phase | Phase 1: Python Foundations |
+| Next Milestone | Day 11: Inheritance & Polymorphism |
 
 ---
 
@@ -24,16 +37,17 @@ This repository documents my 180-day challenge to become an AI Application Devel
 
 | Phase | Days | Focus Area | Status |
 |-------|------|------------|--------|
-| 1 | 0-30 | Python Foundations | ✅ Completed |
-| 2 | 31-60 | SQL & Data Engineering | 📝 Planned |
-| 3 | 61-90 | Backend Development (FastAPI) | 📝 Planned |
-| 4 | 91-120 | AI Engineering (LangChain, RAG) | 📝 Planned |
-| 5 | 121-150 | AI Agents & Capstone Projects | 📝 Planned |
-| 6 | 151-180 | Portfolio & Job Applications | 📝 Planned |
+| 1 | 0-30 | Python Foundations | 🟢 Completed |
+| 2 | 31-60 | SQL & Data Engineering | ⚪ Planned |
+| 3 | 61-90 | Backend Development (FastAPI) | ⚪ Planned |
+| 4 | 91-120 | AI Engineering (LangChain, RAG) | ⚪ Planned |
+| 5 | 121-150 | AI Agents & Capstone Projects | ⚪ Planned |
+| 6 | 151-180 | Portfolio & Job Applications | ⚪ Planned |
 
 ---
 
 ## 📂 Repository Structure
+
 180-days-python-ai/
 - **01-python-foundations/** — Daily code from Day 0 to Day 30
 - **02-intermediate/** — Phase 2: SQL & Data
@@ -70,11 +84,15 @@ This repository documents my 180-day challenge to become an AI Application Devel
 
 ---
 
-## 📬 Connect
+## 🔗 Connect
 
 - **LinkedIn:** [linkedin.com/in/waqarahmaddev](https://www.linkedin.com/in/waqarahmaddev)
 - **GitHub Profile:** [github.com/waqarahmaddev](https://github.com/waqarahmaddev)
 
 ---
 
+<p align="center">
+  <strong>⭐ Star this repo to follow my journey.</strong><br>
+  <em>This README is updated as I progress through my 180-day challenge.</em>
+</p>
 *This README is updated as I progress through my 180-day challenge.*
