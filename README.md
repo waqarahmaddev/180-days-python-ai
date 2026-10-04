@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.14.5-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Days_Completed-10%2F180-brightgreen?style=for-the-badge" alt="Days Completed">
-  <img src="https://img.shields.io/badge/Commits-33-blue?style=for-the-badge" alt="Commits">
+  <img src="https://img.shields.io/badge/Days_Completed-11%2F180-brightgreen?style=for-the-badge" alt="Days Completed">
+  <img src="https://img.shields.io/badge/Commits-34-blue?style=for-the-badge" alt="Commits">
 </p>
 
 ---
@@ -25,11 +25,11 @@ This repository documents my 180-day challenge to become an AI Application Devel
 
 | Metric | Value |
 |--------|-------|
-| Days Completed | 10 / 180 |
-| Total Commits | 33 |
+| Days Completed | 11 / 180 |
+| Total Commits | 34 |
 | Projects Built | 3 |
 | Current Phase | Phase 1: Python Foundations |
-| Next Milestone | Day 11: Inheritance & Polymorphism |
+| Next Milestone | Day 12: Encapsulation & Abstraction |
 
 ---
 
@@ -37,7 +37,7 @@ This repository documents my 180-day challenge to become an AI Application Devel
 
 | Phase | Days | Focus Area | Status |
 |-------|------|------------|--------|
-| 1 | 0-30 | Python Foundations | 🟢 Completed |
+| 1 | 0-30 | Python Foundations | 🟢 In Progress |
 | 2 | 31-60 | SQL & Data Engineering | ⚪ Planned |
 | 3 | 61-90 | Backend Development (FastAPI) | ⚪ Planned |
 | 4 | 91-120 | AI Engineering (LangChain, RAG) | ⚪ Planned |
@@ -72,7 +72,7 @@ This repository documents my 180-day challenge to become an AI Application Devel
 | 8 | 12 Aug 2026 | File Handling | Notes Creator, Student Marks Saver, To-Do App | [day8.py](./01-python-foundations/day8.py) |
 | 9 | 20 Aug 2026 | Exception Handling | Crash-Proof Calculator, Safe File Reader | [day9.py](./01-python-foundations/day9.py) |
 | 10 | 1 Sep 2026 | OOP Basics | Student Grade System, BankAccount, ToDoManager | [day10.py](./01-python-foundations/day10.py) |
-| 11 | Next | Inheritance & Polymorphism | — | [day11.py](./01-python-foundations/day11.py) |
+| 11 | 4 Oct 2026 | Inheritance & Polymorphism | BankAccount -> SavingsAccount, Person -> Student -> Teacher, Shape -> Circle, Rectangle | [day11.py](./01-python-foundations/day11.py) |
 
 ---
 
