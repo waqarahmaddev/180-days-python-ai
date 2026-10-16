@@ -2,6 +2,8 @@
 # Waqar Ahmad - 16 Oct 2026
 # 180 Days Python to AI Challenge
 
+from abc import ABC, abstractmethod
+
 print("=" * 50)
 print("DAY 12: ENCAPSULATION & ABSTRACTION")
 print("=" * 50)
@@ -130,8 +132,6 @@ except ValueError as e:
 
 print("\n--- PROJECT 3: Shape with Abstraction ---")
 
-from abc import ABC, abstractmethod
-
 class Shape(ABC):
     """Abstract base class. Cannot create object directly."""
 
@@ -192,4 +192,4 @@ except TypeError as e:
 
 print("\n" + "=" * 50)
 print("Day 12 Complete - Encapsulation & Abstraction")
-print("=" * 50)
+print("=" * 50) 
