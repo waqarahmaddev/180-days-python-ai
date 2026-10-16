@@ -13,6 +13,7 @@ print("=" * 50)
 
 print("\n--- PROJECT 1: BankAccount -> SavingsAccount ---")
 
+
 class BankAccount:
     """Parent class. Basic bank account."""
 
@@ -31,7 +32,9 @@ class BankAccount:
         if amount <= 0:
             raise ValueError("Withdraw amount must be positive")
         if amount > self.balance:
-            raise ValueError(f"Insufficient funds! Balance: {self.balance}, Tried: {amount}")
+            raise ValueError(
+                f"Insufficient funds! Balance: {self.balance}, Tried: {amount}"
+            )
         self.balance -= amount
         print(f"[BankAccount] Withdrew {amount}. New balance: {self.balance}")
 
@@ -53,7 +56,9 @@ class SavingsAccount(BankAccount):
         """Child-specific method. Parent does not have this."""
         interest = self.balance * self.interest_rate
         self.balance += interest
-        print(f"[SavingsAccount] Interest added: {interest}. New balance: {self.balance}")
+        print(
+            f"[SavingsAccount] Interest added: {interest}. New balance: {self.balance}"
+        )
 
 
 # Test Project 1
@@ -77,6 +82,7 @@ except ValueError as e:
 # ============================================================
 
 print("\n--- PROJECT 2: Person -> Student -> Teacher (Polymorphism) ---")
+
 
 class Person:
     """Parent class."""
@@ -121,7 +127,7 @@ print("\nPolymorphism in action:")
 people = [
     Person("Ali", 30),
     Student("Waqar", 25, "S123"),
-    Teacher("Ahmed", 40, "Python")
+    Teacher("Ahmed", 40, "Python"),
 ]
 
 for person in people:
@@ -133,6 +139,7 @@ for person in people:
 # ============================================================
 
 print("\n--- PROJECT 3: Shape -> Circle, Rectangle (Polymorphism) ---")
+
 
 class Shape:
     """Parent class."""
@@ -173,12 +180,7 @@ class Rectangle(Shape):
 
 # Test Project 3
 print("\nSame method 'area'. Different behavior:")
-shapes = [
-    Circle(5),
-    Rectangle(4, 6),
-    Circle(2),
-    Rectangle(10, 3)
-]
+shapes = [Circle(5), Rectangle(4, 6), Circle(2), Rectangle(10, 3)]
 
 for shape in shapes:
     print(f"{shape.name()} area: {shape.area()}")
