@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.14.5-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Days_Completed-11%2F180-brightgreen?style=for-the-badge" alt="Days Completed">
-  <img src="https://img.shields.io/badge/Commits-34-blue?style=for-the-badge" alt="Commits">
+  <img src="https://img.shields.io/badge/Days_Completed-12%2F180-brightgreen?style=for-the-badge" alt="Days Completed">
+  <img src="https://img.shields.io/badge/Commits-35-blue?style=for-the-badge" alt="Commits">
 </p>
 
 ---
@@ -25,11 +25,11 @@ This repository documents my 180-day challenge to become an AI Application Devel
 
 | Metric | Value |
 |--------|-------|
-| Days Completed | 11 / 180 |
-| Total Commits | 34 |
+| Days Completed | 12 / 180 |
+| Total Commits | 35 |
 | Projects Built | 3 |
 | Current Phase | Phase 1: Python Foundations |
-| Next Milestone | Day 12: Encapsulation & Abstraction |
+| Next Milestone | Day 13: Magic Methods |
 
 ---
 
@@ -73,6 +73,7 @@ This repository documents my 180-day challenge to become an AI Application Devel
 | 9 | 20 Aug 2026 | Exception Handling | Crash-Proof Calculator, Safe File Reader | [day9.py](./01-python-foundations/day9.py) |
 | 10 | 1 Sep 2026 | OOP Basics | Student Grade System, BankAccount, ToDoManager | [day10.py](./01-python-foundations/day10.py) |
 | 11 | 4 Oct 2026 | Inheritance & Polymorphism | BankAccount -> SavingsAccount, Person -> Student -> Teacher, Shape -> Circle, Rectangle | [day11.py](./01-python-foundations/day11.py) |
+| 12 | 16 Oct 2026 | Encapsulation & Abstraction | BankAccount private balance, Student marks validation, Shape abstract class | [day12.py](./01-python-foundations/day12.py) |
 
 ---
 
